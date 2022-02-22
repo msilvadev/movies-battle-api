@@ -1,0 +1,2 @@
+br/com/letscode/movies/battle/ApplicationTests.java
+ br.com.letscode.movies.battle.ApplicationTests
